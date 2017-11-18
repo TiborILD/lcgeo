@@ -1,5 +1,3 @@
-<comment>Calorimeters</comment>
-
 <lccdd>
 
   <detectors>
@@ -23,8 +21,6 @@
 
       <type_flags type=" DetType_CALORIMETER + DetType_ENDCAP + DetType_HADRONIC + DetType_AUXILIARY " />
 
-      <!-- absorber material
-        -->
       <staves  material = "Steel304L"  vis="GreenVis"/>
       <material name="Steel304L"/>
 
